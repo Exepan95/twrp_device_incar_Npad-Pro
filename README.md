@@ -2,6 +2,7 @@
 
 A black screen appears while booting into twrp. But in the release I have posted a working version. Need more tests.
 
+
 ## Device specification
 
 Basic   | Spec Sheet
